@@ -1,0 +1,75 @@
+.button{
+    display: flex;
+    height: 2em;
+    width: 7em;
+    background-color: black;
+    font-size: 1.5vw;
+    border-radius: 20%;
+    align-items: center;
+    justify-content: center;
+}
+.button1{
+  border: 0.6vw outset rgb(20, 24, 80);
+}
+.button2{
+  border: 0.6vw inset rgb(20, 24, 80);
+}
+.btndiv{
+  display: flex;
+  justify-content: space-between;
+}
+.button:hover{
+    background-color: rgb(233, 148, 21);
+}
+.button a:hover{
+    color:wheat;
+}
+.button a{
+    color: white;
+    text-decoration: none;
+
+}
+.logoimg{
+    height: 33vh;
+}
+.image{
+    border: 4px inset rgb(26, 23, 23);
+}
+.main{
+    background-color: wheat;
+}
+.title{
+    display: flex;
+    margin-right: 1vw;
+}
+.links{
+    margin-left: 1vw;
+}
+.logo{
+    width: 5vw;
+    margin-right: 2vw;
+
+}
+.span{
+  background-color: black;
+  color: white;
+}
+.links ul li a{
+    padding: 2vw;
+    color: rgb(255,255,255);
+}
+.isro{
+    left: 64vw;
+    letter-spacing: 1vw;
+    font-size: 4vw;
+    color: white;
+}
+.navbar{
+  background-image: url('left-background6.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+footer{
+  color: white;
+  background-image: url('left-background6.png');
+}

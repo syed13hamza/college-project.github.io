@@ -1,0 +1,31 @@
+
+.left{
+  display: flex;
+}
+.left ul li a{
+  font-size: 1.3vw;
+  padding-left: 1.2vw;
+  padding-top: 0px;
+  color: white ;
+  text-decoration: none;
+  line-height: 6vh;
+}
+.left p{
+  font-size: 1.7vw;
+  padding-bottom: 0px;
+  padding-left: .7vw;
+  padding-top: 10px;
+  color: rgb(135, 223, 113);
+  line-height: 9vh;
+}
+.left ul li a{
+  font-size: 1.3vw;
+  padding-left: 1.2vw;
+  padding-top: 0px;
+  color: white ;
+  text-decoration: none;
+  line-height: 6vh;
+}
+.left ul li a:hover{
+ background-color: rgb(34, 54, 10);
+}
